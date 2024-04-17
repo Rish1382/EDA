@@ -24,4 +24,4 @@
 
 5.working_with_missing_duplicate_data[Link](https://github.com/Rish1382/EDA/blob/main/5.working_with_missing_duplicate_data.txt)
 
-full EDA[Link](https://github.com/Rish1382/EDA/blob/main/full%20EDA.ipynb]
+full EDA[Link](https://github.com/Rish1382/EDA/blob/main/full%20EDA.ipynb)
